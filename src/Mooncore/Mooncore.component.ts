@@ -2,8 +2,8 @@ import { Component, VERSION } from '@angular/core';
 
 @Component({
   selector: 'Mooncore',
-  templateUrl: './app.component.html',
-  styleUrls: [ './app.component.css' ]
+  templateUrl: './Mooncore.component.html',
+  styleUrls: [ './Mooncoree.component.css' ]
 })
 export class AppComponent  {
   name = 'Angular ' + VERSION.major;
